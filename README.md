@@ -1,19 +1,9 @@
 # iOS Dish Washer app 🧼
 
-Hi everyone I hope you are all good!
-
-The goal of this assignment is to learn the Basics UI & UX concepts. To be honest with you I did not attend any lectures at all.
-The lectures were really boring and most of the things were so obvious that it was boring. 
-
-To be honest with you, for someone that has no experience at all with UI/UX the course is 'great'. 
-But me having worked 2 years now I think I know these basic concepts described in the lecture.
-
 For the assignment we created the mockups with `Sketch`, a popular UI software for macOS.
 After having completed the mockup we went straight to the implementation. The good news is that we have recorded the whole process of building the app.
 It will be published in youtube soon (in Developer Student club channel).
 
-If you do not know DSC follow the link. We are a big tech community in Athens University Of Economics.
-[Youtube channel](https://www.youtube.com/channel/UCgGNQk-OYb7cvK_jFq5VoCQ)
 
 ## How to build & run
  For doing that you need a macOS with xcode installed. 
@@ -31,8 +21,5 @@ If you do not know DSC follow the link. We are a big tech community in Athens Un
 [Gerasimos Lapakis](https://github.com/GerasimosLap)
 
 [Konstantinos Nikoloutsos](https://github.com/Nikoloutsos)
-
-[Konstantinos Konstantopoulos](https://github.com/ntinouldinho)
-
 
 
